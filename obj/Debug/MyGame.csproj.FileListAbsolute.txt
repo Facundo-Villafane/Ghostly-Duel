@@ -1,0 +1,409 @@
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\asteroid.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\fondo.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\MyGame.exe.config
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\MyGame.exe
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\MyGame.pdb
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\obj\Debug\MyGame.exe
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\obj\Debug\MyGame.pdb
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\fondoInd.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft17.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft18.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft19.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft20.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft21.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft22.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft23.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft24.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft25.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleLeft\IdleLeft9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight17.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight18.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight19.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight20.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight21.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight22.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight23.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight24.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight25.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\idleRight\IdleRight9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft17.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft18.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft19.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft20.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft21.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft22.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft23.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft24.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft25.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveLeft\moveLeft9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight17.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight18.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight19.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight20.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight21.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight22.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight23.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight24.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight25.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\moveRight\moveRight9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkLeft\atkleft9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\atkRight\atkRight9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpLeft\jumpLeft9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\jumpRight\jumpRight9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkL\enemAtkL1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkL\enemAtkL2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkL\enemAtkL3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkL\enemAtkL4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkL\enemAtkL5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkL\enemAtkL6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkL\enemAtkL7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkL\enemAtkL8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkR\enemAtkR1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkR\enemAtkR2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkR\enemAtkR3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkR\enemAtkR4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkR\enemAtkR5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkR\enemAtkR6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkR\enemAtkR7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemAtkR\enemAtkR8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL17.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL18.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL19.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieL\enemDieL9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR17.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR18.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR19.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemDieR\enemDieR9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleL\enemIdleL9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\enemy\enemIdleR\enemIdleR9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\tiles\platformInd.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpPlayer\hpPlayer9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft17.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft18.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft19.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft20.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft21.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft22.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft23.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft24.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft25.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePLeft\diePLeft9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight12.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight13.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight14.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight15.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight16.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight17.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight18.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight19.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight20.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight21.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight22.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight23.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight24.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight25.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\player\diePRight\diePRight9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy1.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy10.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy11.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy2.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy3.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy4.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy5.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy6.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy7.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy8.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\hpEnemy\hpEnemy9.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\Start-Screen.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\Lose-Screen.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\Win-Screen.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\sounds\enemyAttack.wav
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\sounds\enemyDamage.wav
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\sounds\gameMusic.wav
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\sounds\lose.wav
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\sounds\playerAttack.wav
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\sounds\playerDamage.wav
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\sounds\startScreen.wav
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\sounds\win.wav
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.Asio.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.Core.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.Midi.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.Wasapi.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.WinForms.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.WinMM.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\System.Security.AccessControl.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\System.Security.Principal.Windows.dll
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.Asio.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.Core.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.Midi.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.Wasapi.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.WinForms.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\NAudio.WinMM.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\System.Security.AccessControl.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\System.Security.Principal.Windows.xml
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\buttons\BACK-export.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\buttons\BACK.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\buttons\CONTROLS-export.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\buttons\CONTROLS.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\buttons\EXIT-export.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\buttons\EXIT.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\buttons\PLAY-export.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\buttons\PLAY.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\Controls-Screen.png
+D:\Universidad\TUV\1 cuatrimestre\Programacion 1\Unidad 3\Proyecto Base\bin\Debug\assets\Start-Screen2.png
